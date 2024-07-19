@@ -10,6 +10,7 @@
 1. Run `terraform plan -var-file='./demo.tfvars'`
 1. Uncomment storage resource in main.tf.
 1. Uncomment and examine outputs.tf.
+1. Run `terraform apply -var-file='./demo.tfvars'`
 
 ## Reset
 
